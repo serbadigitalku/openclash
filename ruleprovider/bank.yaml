@@ -27,7 +27,7 @@ payload:
   - DOMAIN-SUFFIX,isipulsa.web.id
 
   # BANK INDONESIA
-   - DOMAIN-SUFFIX,bri.co.id
+  - DOMAIN-SUFFIX,bri.co.id
   - DOMAIN-SUFFIX,bankmandiri.co.id
   - DOMAIN-SUFFIX,bni.co.id
   - DOMAIN-SUFFIX,btn.co.id
